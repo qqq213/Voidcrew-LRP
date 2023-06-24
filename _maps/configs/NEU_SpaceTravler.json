@@ -1,0 +1,18 @@
+{
+	"map_name": "Space Travler Exploration Vessel",
+	"map_short_name": "Travler",
+	"prefix": "NEU",
+	"map_path": "_maps/shuttles/shiptest/SpaceTravler.dmm",
+	"map_id": "SpaceTravler",
+	"roundstart": true,
+	"job_slots": {
+		"Captain": 1,
+		"Research Director": 1,
+		"Scientist": 5,
+		"Shaft Miner": 3,
+		"Security Officer": 1,
+		"Station Engineer": 3,
+		"Assistant": 3
+	},
+	"cost": 750
+}
